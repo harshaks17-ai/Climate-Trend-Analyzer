@@ -1,0 +1,15 @@
+{
+  "seconds": 57.3,
+  "stages": [
+    "generate",
+    "preprocess",
+    "eda",
+    "trends",
+    "anomaly",
+    "forecast",
+    "report"
+  ],
+  "rows": 63920,
+  "figures": 16,
+  "tables": 16
+}

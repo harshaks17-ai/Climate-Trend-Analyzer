@@ -1,0 +1,6 @@
+region,variable,mae,rmse,mape,method
+Coastal India,temperature_c,0.922,1.25,3.28,holt_winters
+North India,temperature_c,0.765,1.047,3.3,holt_winters
+Northern Plains,temperature_c,0.739,1.04,3.73,holt_winters
+South India,temperature_c,0.835,0.996,3.03,holt_winters
+Western Ghats,temperature_c,0.96,1.146,4.25,holt_winters

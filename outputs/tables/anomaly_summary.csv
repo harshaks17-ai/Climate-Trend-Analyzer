@@ -1,0 +1,20 @@
+region,anomaly_type,count,mean_score,mean_z
+Coastal India,cold_extreme,77,0.337,-3.31
+Coastal India,heat_extreme,86,0.387,3.277
+Coastal India,multivariate,15,0.333,0.084
+Coastal India,rain_extreme,38,0.597,0.501
+North India,cold_extreme,76,0.337,-3.428
+North India,heat_extreme,90,0.359,3.336
+North India,multivariate,14,0.333,0.163
+North India,rain_extreme,32,0.573,-0.032
+Northern Plains,cold_extreme,85,0.337,-3.563
+Northern Plains,heat_extreme,81,0.341,3.092
+Northern Plains,rain_extreme,32,0.51,-0.029
+South India,cold_extreme,46,0.355,-3.69
+South India,heat_extreme,84,0.424,3.448
+South India,multivariate,4,0.333,-1.008
+South India,rain_extreme,33,0.647,0.035
+Western Ghats,cold_extreme,62,0.365,-3.351
+Western Ghats,heat_extreme,93,0.408,3.745
+Western Ghats,multivariate,12,0.333,-0.762
+Western Ghats,rain_extreme,40,0.65,-0.272

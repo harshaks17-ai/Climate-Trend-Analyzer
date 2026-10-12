@@ -1,0 +1,29 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Test / coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Local secrets / logs ---
+*.log
+*.log.err
+.streamlit/secrets.toml
+
+# --- Regenerable heavy data (keep raw as proof; run `python main.py`) ---
+data/processed/*.csv

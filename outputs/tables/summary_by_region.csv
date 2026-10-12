@@ -1,0 +1,6 @@
+region,temperature_c_mean,temperature_c_std,temperature_c_min,temperature_c_max,rainfall_mm_mean,rainfall_mm_std,rainfall_mm_min,rainfall_mm_max,humidity_pct_mean,humidity_pct_std,humidity_pct_min,humidity_pct_max,co2_ppm_mean,co2_ppm_std,co2_ppm_min,co2_ppm_max,sea_level_mm_mean,sea_level_mm_std,sea_level_mm_min,sea_level_mm_max,wind_speed_ms_mean,wind_speed_ms_std,wind_speed_ms_min,wind_speed_ms_max
+Coastal India,27.23,5.14,10.05,44.95,12.75,38.31,0.0,1921.56,61.74,8.94,27.1,99.0,384.59,19.38,351.9,421.77,48.63,31.26,-5.7,113.51,6.7,2.1,2.52,18.74
+North India,24.99,5.16,4.66,43.68,5.71,17.16,0.0,711.86,61.82,7.13,36.9,99.0,384.59,19.38,351.9,421.77,48.66,31.25,-6.99,115.41,6.7,2.11,2.57,19.28
+Northern Plains,21.61,5.16,0.89,37.52,3.53,8.95,0.0,424.49,61.82,7.04,40.2,99.0,384.59,19.38,351.9,421.77,47.04,31.24,-7.96,110.51,6.69,2.09,2.52,19.26
+South India,28.02,5.19,9.65,49.55,10.03,26.87,0.0,1274.61,61.67,10.04,35.5,99.0,384.59,19.38,351.9,421.77,47.49,31.25,-6.56,111.07,6.72,2.09,2.56,19.11
+Western Ghats,23.37,5.14,4.65,50.3,16.02,44.99,0.0,1594.28,61.78,8.17,23.5,99.0,384.59,19.38,351.9,421.77,48.25,31.25,-6.52,113.96,6.69,2.08,2.57,18.86

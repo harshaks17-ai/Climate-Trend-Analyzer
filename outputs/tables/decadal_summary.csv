@@ -1,0 +1,21 @@
+region,decade,mean_temp_c,mean_co2_ppm,mean_sea_level_mm,total_rain_mm_per_year
+Coastal India,1990,26.75,361.49,11.75,4104.38
+Coastal India,2000,27.38,378.77,38.76,4564.42
+Coastal India,2010,27.24,398.45,70.75,5293.24
+Coastal India,2020,27.9,414.71,97.88,4667.02
+North India,1990,24.59,361.49,11.79,1818.11
+North India,2000,25.08,378.77,38.78,2078.01
+North India,2010,25.06,398.45,70.78,2124.32
+North India,2020,25.47,414.71,97.92,2559.65
+Northern Plains,1990,20.93,361.49,10.16,1214.33
+Northern Plains,2000,21.67,378.77,37.18,1193.13
+Northern Plains,2010,21.93,398.45,69.16,1325.89
+Northern Plains,2020,22.2,414.71,96.28,1571.49
+South India,1990,27.66,361.49,10.65,3067.87
+South India,2000,27.89,378.77,37.56,3535.23
+South India,2010,28.3,398.45,69.63,3993.33
+South India,2020,28.44,414.71,96.76,4442.2
+Western Ghats,1990,23.16,361.49,11.34,6372.39
+Western Ghats,2000,23.32,378.77,38.4,5431.77
+Western Ghats,2010,23.5,398.45,70.4,5422.41
+Western Ghats,2020,23.64,414.71,97.45,6499.33

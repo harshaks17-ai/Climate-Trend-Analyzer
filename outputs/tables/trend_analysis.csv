@@ -1,0 +1,21 @@
+region,variable,slope_per_decade,theil_sen_per_decade,r2,p_value,mk_p_value,mk_trend,unit,total_change
+Coastal India,temperature_c,0.306,0.292,0.434,1.685e-05,6.997e-05,increasing,C/decade,1.25
+Coastal India,rainfall_mm,348.872,348.879,0.163,0.01605,0.001618,increasing,mm/decade,905.87
+Coastal India,co2_ppm,19.08,19.08,0.997,9.869e-43,3.294e-17,increasing,ppm/decade,64.87
+Coastal India,sea_level_mm,30.752,30.76,0.995,4.678e-39,3.294e-17,increasing,mm/decade,104.45
+North India,temperature_c,0.309,0.299,0.444,1.241e-05,2.627e-05,increasing,C/decade,1.24
+North India,rainfall_mm,202.272,166.344,0.21,0.005583,0.005378,increasing,mm/decade,1387.77
+North India,co2_ppm,19.08,19.08,0.997,9.894e-43,3.294e-17,increasing,ppm/decade,64.87
+North India,sea_level_mm,30.747,30.758,0.995,4.497e-39,3.294e-17,increasing,mm/decade,104.79
+Northern Plains,temperature_c,0.485,0.496,0.675,1.449e-09,2.017e-07,increasing,C/decade,1.37
+Northern Plains,rainfall_mm,102.318,88.85,0.213,0.005272,0.005378,increasing,mm/decade,1162.45
+Northern Plains,co2_ppm,19.08,19.08,0.997,9.894e-43,3.294e-17,increasing,ppm/decade,64.87
+Northern Plains,sea_level_mm,30.74,30.82,0.995,5.14e-39,3.294e-17,increasing,mm/decade,104.5
+South India,temperature_c,0.292,0.306,0.573,1.451e-07,1.376e-06,increasing,C/decade,0.87
+South India,rainfall_mm,493.51,371.497,0.338,0.0002488,3.815e-05,increasing,mm/decade,1636.18
+South India,co2_ppm,19.08,19.08,0.997,9.896e-43,3.294e-17,increasing,ppm/decade,64.87
+South India,sea_level_mm,30.749,30.769,0.995,5.99e-39,3.294e-17,increasing,mm/decade,104.25
+Western Ghats,temperature_c,0.169,0.171,0.217,0.004831,0.00697,increasing,C/decade,0.09
+Western Ghats,rainfall_mm,-105.115,343.86,0.008,0.6086,0.1055,no significant trend,mm/decade,1663.7
+Western Ghats,co2_ppm,19.08,19.08,0.997,9.87e-43,3.294e-17,increasing,ppm/decade,64.87
+Western Ghats,sea_level_mm,30.747,30.735,0.995,3.089e-39,3.294e-17,increasing,mm/decade,104.27

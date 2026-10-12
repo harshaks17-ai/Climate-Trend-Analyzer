@@ -1,0 +1,2 @@
+true_positive,false_positive,false_negative,true_negative,day_recall,day_precision,day_f1,accuracy,truth_events,detected_events,matched_events,event_recall,event_precision,total_flagged_days,truth_days
+651,349,376,62544,0.634,0.651,0.642,0.989,216,322,184,0.852,0.596,1000,1027
